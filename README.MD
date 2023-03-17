@@ -24,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   JSX e CSS
 -   React JS
 -   TypeScript
+-   Vite
+
 
 ## 💻 Projeto
 
