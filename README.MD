@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora de IMC </h1>
 
 <p align="center">
-  Aplicação web feita para calcular o índice massa copórea.  
+  Aplicação web para calcular o Índice de Massa Copórea.  
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma página WEB onde é possível preencher os campos com sua altura e seu peso, e a partir dessas informações a aplicação consegue retornar seu índice de massa corpórea. Com base no resultado, informa se você está no nível magreza, sobrepeso ou obesidade.
+Uma página WEB onde é possível preencher os campos com sua altura e seu peso, e a partir dessas informações a aplicação consegue retornar seu índice de massa corpórea(IMC). Com base no resultado, informa se você está no nível magreza, sobrepeso ou obesidade.
 
--   Confira o site [online aqui](https://marvel-comics-one-taupe.vercel.app/)
+-   Confira o site [online aqui](https://imc-calc-two.vercel.app/)
 
 ## :telephone_receiver: Contato
 

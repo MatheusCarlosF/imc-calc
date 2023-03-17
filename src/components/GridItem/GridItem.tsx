@@ -1,5 +1,5 @@
 import { Level } from "../../helpers/imc"
-import { } from './index.css'
+import './index.css'
 
 import down from '../../assets/down.png'
 import up from '../../assets/up.png'
